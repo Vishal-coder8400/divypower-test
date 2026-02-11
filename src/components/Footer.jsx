@@ -21,6 +21,7 @@ const routes = [
   { name: "Work With Us", path: "/workwithus" },
   { name: "Contact", path: "/contact" },
   { name: "Team", path: "/team" },
+  { name: "vendor-registration", path: "/vendor-registration" },
 ];
 
 const Footer = () => {
